@@ -1,0 +1,4 @@
+line,keterangan
+1,Format tanggal salah
+3,Jumlah field kurang
+5,Harus Unik
